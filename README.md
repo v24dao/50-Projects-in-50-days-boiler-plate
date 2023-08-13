@@ -39,7 +39,8 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 #### What I learned
 
-- Point 1
+- When using CSS pseudo selectors such as `::before`, we need to set `content: ""`.
+- I learned about the `:disabled` CSS selector and the cursor option `:not-allowed`.
 
 #### Useful resources
 
