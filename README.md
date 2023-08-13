@@ -1,6 +1,6 @@
 # Progress Steps (Project 2/50)
 
-/// Project Description Here ///
+The **Progress Steps** project contains "Next" and "Prev" (previous) buttons which updates a progress bar ranging from 1 to 4.
 
 Live link: [Progress Steps](https://project2of50.netlify.app/)
 
@@ -44,7 +44,8 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 #### Useful resources
 
-- Point 1
+- [HTML attributes:disabled](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/disabled)
+- [Disable and enable a button in JavaScript](https://www.w3schools.com/jsref/prop_pushbutton_disabled.asp)
 
 #### Continued development
 

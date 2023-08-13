@@ -22,7 +22,6 @@ next.addEventListener('click', () => {
   }
 
   update();
-
   console.log(currentActive);
 });
 
