@@ -1,10 +1,10 @@
-# Name of Project (Project X/50)
+# Progress Steps (Project 2/50)
 
 /// Project Description Here ///
 
-Live link: [Insert Name of Project and a live link](https://project1of50.netlify.app/)
+Live link: [Progress Steps](https://project2of50.netlify.app/)
 
-This is project #X of the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://github.com/bradtraversy).
+This is project #2 of the [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) course by [Brad Traversy](https://github.com/bradtraversy).
 
 ## Table of contents
 
