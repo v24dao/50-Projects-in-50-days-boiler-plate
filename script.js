@@ -17,11 +17,34 @@ const circles = document.querySelectorAll('.circle');
 let currentActive = 1;
 
 next.addEventListener('click', () => {
-  currentActive++;
+  if (currentActive < 4) {
+    currentActive++;
+  }
+
+  update();
+
   console.log(currentActive);
 });
 
 prev.addEventListener('click', () => {
-  currentActive--;
+  if (currentActive > 1) {
+    currentActive--;
+  }
+
+  update();
   console.log(currentActive);
 });
+
+function update() {
+  if (currentActive == 4) {
+    next.disabled = true;
+  } else {
+    next.disabled = false;
+  }
+
+  if (currentActive == 1) {
+    prev.disabled = true;
+  } else {
+    prev.disabled = false;
+  }
+}
