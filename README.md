@@ -39,7 +39,7 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 #### What I learned
 
-- When using CSS pseudo selectors such as `::before`, we need to set `content: ""`.
+- When using CSS pseudo selectors such as `::before`, we may need to set the content property to an empty string for it to function as intended. `content: ""`
 - I learned about the `:disabled` CSS selector and the cursor option `:not-allowed`.
 
 #### Useful resources
@@ -49,4 +49,4 @@ Upon completion of each project, I shall compare my solution with Brad's and wri
 
 #### Continued development
 
-- Point 1
+- I could apply the steps counter to a testimonial section of a website or to an Eccomerce site.
